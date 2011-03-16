@@ -1,0 +1,8 @@
+Literate-Lisp: A very simple literate programming system for Common Lisp.
+
+The goals of this project are to create a literate programming system where the
+documentation lies in the comments of the program, making it LOADable,
+COMPILEable, etc.  The syntax is loosely based on my understanding of noweb
+syntax, which is very weak at best.
+
+See the file literate-lisp.lisp for further documentation.
